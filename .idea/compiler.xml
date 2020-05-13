@@ -5,6 +5,8 @@
       <module name="Dagger3.app" target="1.8" />
       <module name="Dagger3.Data" target="1.7" />
       <module name="Dagger3.Domain" target="1.7" />
+      <module name="Data" target="1.7" />
+      <module name="Domain" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
